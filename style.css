@@ -12,6 +12,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -23,7 +24,7 @@ section{
 .half-width img{
     width: 120%;
 
-   padding:5%;
+   padding:10px;
     
 }
 .link-button{
@@ -39,6 +40,15 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.one-width img{
+    width: 600px;
+    padding-left: 10px;
+}
+.Whistle-bg{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 
